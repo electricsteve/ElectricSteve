@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm ElectricSteve</h1>
 <h3 align="center">A Dutch hobbyist programmer that does random stuff. 14 Y/O VWO 3 (Gonna do NT&NG)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=electricsteve&theme=matrix" alt="electricsteve" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=electricsteve&theme=matrix&no-frame=true" alt="electricsteve" /></a> </p>
 
 - 🔭 I’m currently working on **Not really anything**
 
