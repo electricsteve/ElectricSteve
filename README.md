@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=electricsteve&theme=matrix&no-frame=true" alt="electricsteve" /></a> </p>
 
-- 🔭 I’m currently working on **Not really anything**
+- 🔭 I’m currently working on **Things that are not public (yet)**
 
-- 🌱 I’m currently learning **JS & Python**
+- 🌱 I’m currently learning **JavaScript, TypeScript & vue.js**
 
 - 👨‍💻 All of my projects are available on [My Github](https://github.com/electricsteve?tab=repositories)
 
-- 💬 Ask me about **MC modding**
+- 💬 Ask me about **Minecraft modding**
 
 - 📫 To reach me **Just DM me on discord: @ElectricSteve**
 
