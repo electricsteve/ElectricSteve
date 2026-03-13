@@ -33,3 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=electricsteve&show_icons=true&theme=highcontrast&title_color=ffbb00&text_color=00bfff&hide_border=true&locale=en" alt="electricsteve" /></p>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=electricsteve&theme=highcontrast&hide_border=true&date_format=j%2Fn%5B%2FY%5D&card_width=600&background=45%2C000C9B%2C707F00" alt="GitHub Streak" /></a>
