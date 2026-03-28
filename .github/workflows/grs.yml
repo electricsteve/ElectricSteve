@@ -42,7 +42,7 @@ jobs:
           no-background: false
           no-frame: true
       - name: Generate Streak Stats
-        uses: muhammad-fiaz/github-readme-streak-stats@v1.0.1
+        uses: electricsteve/github-readme-streak-stats-action@v1.1.0
         with:
           USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.PAT }}
