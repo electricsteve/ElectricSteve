@@ -41,6 +41,17 @@ jobs:
           # margin-height: 10
           no-background: false
           no-frame: true
+      - name: Generate Streak Stats
+        uses: muhammad-fiaz/github-readme-streak-stats@v1.0.1
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+          THEME: highcontrast
+          OUTPUT_PATH: profile/streak-stats.svg
+          HIDE_BORDER: true
+          DATE_FORMAT: j/n[/Y]
+          CARD_WIDTH: 600
+          BACKGROUND: 45,000C9B,707F00
       - name: Commit cards
         run: |
           git config user.name "github-actions"
