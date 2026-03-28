@@ -51,7 +51,7 @@ jobs:
           HIDE_BORDER: true
           DATE_FORMAT: j/n[/Y]
           CARD_WIDTH: 800
-          BACKGROUND: 45,000C9B,707F00
+          # BACKGROUND: 45,000C9B,707F00
       - name: Commit cards
         run: |
           git config user.name "github-actions"
