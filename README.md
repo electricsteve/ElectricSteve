@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=electricsteve&label=Profile%20views&color=00cd00&style=flat" alt="electricsteve" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=electricsteve&theme=matrix&no-frame=true" alt="electricsteve" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="./profile/trophy.svg" alt="electricsteve" /></a> </p>
 
 - 🔭 I’m currently working on **Things that are not public (yet)**
 

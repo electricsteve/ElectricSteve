@@ -27,6 +27,20 @@ jobs:
           options: username=${{ github.repository_owner }}&show_icons=true&locale=en&layout=compact&theme=highcontrast&title_color=ffbb00&text_color=00bfff&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.PAT }}
+      - name: Generate Profile Trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          file: profile/trophy.svg
+          token: ${{ secrets.PAT }}
+          theme: matrix
+          # cols: -1
+          # rows: 10
+          # panel-size: 115
+          # margin-width: 10
+          # margin-height: 10
+          no-background: false
+          no-frame: true
       - name: Commit cards
         run: |
           git config user.name "github-actions"
