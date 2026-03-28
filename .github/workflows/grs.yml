@@ -17,14 +17,14 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=highcontrast&title_color=ffbb00&text_color=00bfff&hide_border=true&locale=en
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=highcontrast&title_color=ffbb00&text_color=00bfff&hide_border=true&locale=en&card_width=400
           path: profile/stats.svg
           token: ${{ secrets.PAT }}
       - name: Generate languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&show_icons=true&locale=en&layout=compact&theme=highcontrast&title_color=ffbb00&text_color=00bfff&hide_border=true
+          options: username=${{ github.repository_owner }}&show_icons=true&locale=en&layout=compact&theme=highcontrast&title_color=ffbb00&text_color=00bfff&hide_border=true&card_width=400
           path: profile/top-langs.svg
           token: ${{ secrets.PAT }}
       - name: Generate Profile Trophy
@@ -50,7 +50,7 @@ jobs:
           OUTPUT_PATH: profile/streak-stats.svg
           HIDE_BORDER: true
           DATE_FORMAT: j/n[/Y]
-          CARD_WIDTH: 600
+          CARD_WIDTH: 800
           BACKGROUND: 45,000C9B,707F00
       - name: Commit cards
         run: |
